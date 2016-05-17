@@ -1,0 +1,2 @@
+# ultracool
+The coolest repository
